@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "618951689816",
+    "project_id": "evreka-3b513",
+    "storage_bucket": "evreka-3b513.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618951689816:android:b67e34bf03731736d52c2d",
+        "android_client_info": {
+          "package_name": "com.eyupakkaya.evreka_technical_question"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618951689816-p2qr1rq3taso55ht4ac6jd699cii08qg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0cyZve6WVgK2Q0TKtWp8T5C2yccMROtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618951689816-p2qr1rq3taso55ht4ac6jd699cii08qg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -2,6 +2,7 @@
 2. Firebase Login
 3. Firebase Firestore
 
+Android için gerekli ayarlar yapıldı.
 
 Haritaya aynı anda 1000 veri yüklenmeye çalıştığında telefonda kasma oluşuyor.
 Bu durumun önüne geçmek için bir kaç yöntem izlenebilir.
